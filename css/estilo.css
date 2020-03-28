@@ -1,0 +1,26 @@
+@charset = utf-8;
+
+body h1 {
+	color: #30706F;
+	font-family: Cambria;
+	font-size: 28pt;
+	text-align: center;
+}
+
+body h2 {
+	color: #30706F;
+	font-family: Cambria;
+}
+
+body header p {
+	font-align: center;	
+}
+
+body p, li {
+	font-family: Cambria;
+	font-size: 11pt;
+}
+
+body p.EducacaoNomes {
+	font-weight: bold;
+}
