@@ -24,3 +24,15 @@ body p, li {
 body p.EducacaoNomes {
 	font-weight: bold;
 }
+
+div#Centralizar {
+	margin-left: auto;
+    margin-right: auto;
+    width: 42em;
+}
+
+header#Centralizar p{
+	margin-left: auto;
+    margin-right: auto;
+    width: 10em;
+}
