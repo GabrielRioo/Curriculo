@@ -1,5 +1,17 @@
 @charset = utf-8;
 
+body {
+	background-color: #111111;
+	
+}
+div#Back {
+	background-color:white;
+	margin-left: auto;
+    margin-right: auto;
+	width: 50em;
+	height: 58em;
+}
+
 body h1 {
 	color: #30706F;
 	font-family: Cambria;
@@ -32,13 +44,13 @@ div#Centralizar, hr#Centralizar {
     width: 42em;
 }
 
+header {
+	text-align: center;
+}
+
 body hr {
 	height: 1px;
 	background-color: #30706F;
 }
+	
 
-header#Centralizar p{
-	margin-left: auto;
-    margin-right: auto;
-    width: 10em;
-}
