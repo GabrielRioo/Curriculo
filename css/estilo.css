@@ -8,8 +8,9 @@ div#Back {
 	background-color:white;
 	margin-left: auto;
     margin-right: auto;
+	padding-top: 5px;
 	width: 50em;
-	height: 58em;
+	height: 60em;
 }
 
 body h1 {
