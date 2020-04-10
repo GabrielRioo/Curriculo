@@ -1,4 +1,2 @@
 # Curriculo
-Versao Currículo Gabriel 2019 (antigo)
-
-Atualizado 03/04/2020
+Atualizado 09/04/2020
