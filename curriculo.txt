@@ -1,29 +1,31 @@
-Gabriel de Paiva Rio Beltr„o de Souza
-EndereÁo*****
+## Curriculo em 2019
+
+Gabriel de Paiva Rio Beltr√£o de Souza
+Endere√ßo*****
 Email*****
 Objetivo
-Atuar na ·rea de desenvolvimento front-end, programar a interface, aparencia e funcionalidades.
+Atuar na √°rea de desenvolvimento front-end, programar a interface, aparencia e funcionalidades.
 
 Habilidades e Conhecimentos
-∑	Conhecimento em ProgramaÁ„o C#, C++ e Java.
-∑	Conhecimento em HTML intermedi·rio
-∑	Photoshop avanÁado
-∑	Capacidade Criativa
-EducaÁ„o
-ENSINO M…DIO | 2015 | FUNDA«√O BRADESCO RIO DE JANEIRO
-∑	Cursos relacionados: Curso de Informatica (word, power-point, excel) ñ 2013 ñ intermedi·rio
+¬∑	Conhecimento em Programa√ß√£o C#, C++ e Java.
+¬∑	Conhecimento em HTML intermedi√°rio
+¬∑	Photoshop avan√ßado
+¬∑	Capacidade Criativa
+Educa√ß√£o
+ENSINO M√âDIO | 2015 | FUNDA√á√ÉO BRADESCO RIO DE JANEIRO
+¬∑	Cursos relacionados: Curso de Informatica (word, power-point, excel) ‚Äì 2013 ‚Äì intermedi√°rio
 
 CURSO DE INGLES | 2013 | CURSO YES!
-∑	NÌvel intermedi·rio
+¬∑	N√≠vel intermedi√°rio
 
-TECN”LOGO EM JOGOS DIGITAIS | 2019 | UNIVERSIDADE EST¡CIO DE S¡
-∑	MatÈria principal: Unity 3D
-∑	MatÈria secund·ria: ProgramaÁ„o em C#
-∑	MatÈria terci·ria: Photoshop (avanÁado)
+TECN√ìLOGO EM JOGOS DIGITAIS | 2019 | UNIVERSIDADE EST√ÅCIO DE S√Å
+¬∑	Mat√©ria principal: Unity 3D
+¬∑	Mat√©ria secund√°ria: Programa√ß√£o em C#
+¬∑	Mat√©ria terci√°ria: Photoshop (avan√ßado)
 
-BACHAREL EM CIENCIA DA COMPUTA«√O | CURSANDO | UNIVERSIDADE EST¡CIO DE S¡
-∑	MatÈria principal: ProgramaÁ„o em C++
-∑	MatÈria secund·ria: HTML
-ExperiÍncia
-APRENDIZ DE ASSISTENTE ADMINISTRATIVO | AUTO POSTO RIO 92 | 07/2018 AT… 10/2019
-∑	Fechamento de caixas, conciliaÁ„o banc·ria de cartoes, Emiss„o de notas fiscais, Escala de revesamento e folhas de ponto, OperaÁ„o de sistema integrado LBC.
+BACHAREL EM CIENCIA DA COMPUTA√á√ÉO | CURSANDO | UNIVERSIDADE EST√ÅCIO DE S√Å
+¬∑	Mat√©ria principal: Programa√ß√£o em C++
+¬∑	Mat√©ria secund√°ria: HTML
+Experi√™ncia
+APRENDIZ DE ASSISTENTE ADMINISTRATIVO | AUTO POSTO RIO 92 | 07/2018 AT√â 10/2019
+¬∑	Fechamento de caixas, concilia√ß√£o banc√°ria de cartoes, Emiss√£o de notas fiscais, Escala de revesamento e folhas de ponto, Opera√ß√£o de sistema integrado LBC.
