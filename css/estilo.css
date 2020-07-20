@@ -11,7 +11,7 @@ div#Back {
 	padding-top: 5px;
 	padding-bottom: 150px;
 	width: 50em;
-	height: 70em;
+	height: 100em;
 }
 
 body h1 {
@@ -28,7 +28,7 @@ body h2 {
 }
 
 body header p {
-	font-align: center;	
+	text-align: center;	
 }
 
 body p, li {
